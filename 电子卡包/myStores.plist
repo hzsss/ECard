@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>background</key>
+		<string>card1</string>
+		<key>icon</key>
+		<string>logo1</string>
+		<key>name</key>
+		<string>屈臣氏中国</string>
+	</dict>
+	<dict>
+		<key>background</key>
+		<string>card2</string>
+		<key>icon</key>
+		<string>logo2</string>
+		<key>name</key>
+		<string>屈臣氏中国</string>
+	</dict>
+	<dict>
+		<key>background</key>
+		<string>card3</string>
+		<key>icon</key>
+		<string>logo3</string>
+		<key>name</key>
+		<string>屈臣氏中国</string>
+	</dict>
+	<dict>
+		<key>background</key>
+		<string>card4</string>
+		<key>icon</key>
+		<string>logo4</string>
+		<key>name</key>
+		<string>屈臣氏中国</string>
+	</dict>
+	<dict>
+		<key>background</key>
+		<string>card5</string>
+		<key>icon</key>
+		<string>logo5</string>
+		<key>name</key>
+		<string>屈臣氏中国</string>
+	</dict>
+</array>
+</plist>
